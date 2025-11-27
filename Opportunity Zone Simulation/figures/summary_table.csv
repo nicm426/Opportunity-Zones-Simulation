@@ -1,0 +1,5 @@
+"scenario","bias_pct_RD (Optimal BW)","bias_pct_CF Standard","bias_pct_CF Hybrid","rmse_pct_RD (Optimal BW)","rmse_pct_CF Standard","rmse_pct_CF Hybrid"
+"Baseline","0.8","1.0","3.5","76.2","10.0","11.7"
+"Heterogeneous Effects","11.3","1.8","7.1","77.3","10.2","13.2"
+"Unobserved Confounding","-0.9","23.6","4.0","77.7","25.6","11.7"
+"Combined","12.0","16.9","7.8","78.6","19.7","13.6"
