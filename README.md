@@ -100,6 +100,4 @@ Simulation framework adapted from:
 
 > Gulen, H., Jensen, T., & Page, B. (2020). "The Heterogeneous Effects of Default on Investment: An Application of Causal Random Forests in Corporate Finance."
 
-## License
 
-MIT
