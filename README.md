@@ -4,7 +4,7 @@ Monte Carlo simulations comparing regression discontinuity and causal forest est
 
 ## Overview
 
-This repository contains R code for the simulation study in:
+This repository contains R code for the simulation study for:
 
 > McWilliams, W. (2025). "Heterogeneous Treatment Effects in Opportunity Zone Evaluation: A Causal Forest Alternative to Regression Discontinuity."
 
